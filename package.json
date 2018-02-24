@@ -1,0 +1,21 @@
+{
+  "name": "file-upload-example-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.7.13",
+    "body-parser": "^1.18.2",
+    "dotenv": "^2.0.0",
+    "expo-server-sdk": "^2.3.3",
+    "express": "^4.14.0",
+    "mongoose": "^5.0.7",
+    "multer": "^1.2.0",
+    "multer-s3": "^2.5.0"
+  }
+}
